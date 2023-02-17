@@ -1,1 +1,2 @@
 # Quehaceestealgoritmo-
+Este algoritmo pregunta al usuario cúal es la capital de Francia. Mediante teclado tiene que responder. Si la respuesta es "París" el programa termina y se imprime "Bravo". En caso de ser la respuesta distinta, imprimirá un mensaje con los intentos restantes y "Respuesta incorrecta". Volverá a preguntar hasta que responda correctamente, o el número de intentos sea igual a 5. Cuando se llegue al máximo de intentos sin haber respondido correctamente, además de finalizar el programa, se imprimirá por pantalla "Revise sus conocimientos en geografía".
